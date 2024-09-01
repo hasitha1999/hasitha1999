@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react,java,sql**
 
-- 📫 How to reach me **hasithalakmal0617@gmail.coom**
+- 📫 How to reach me **hasithalakmal0617@gmail.com**
 
 <h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect with me:</h3>
 <p align="left">
