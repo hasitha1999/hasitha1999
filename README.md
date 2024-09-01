@@ -1,12 +1,10 @@
+<p align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw3isz97LZq5WxzulCUyB2Nu&ust=1725263419570000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDw4Z2hoYgDFQAAAAAdAAAAABBj" alt="hasitha1999" /> </p>
 <h1 align="center">Hi 👋, I'm Hasitha Lakmal</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasitha1999&label=Profile%20views&color=0e75b6&style=flat" alt="hasitha1999" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hasitha1999&label=Profile%20views&color=0e75b6&style=flat" alt="hasitha1999" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasitha1999" alt="hasitha1999" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🌱 I’m currently learning **oracle 23 ai,nextJs,Spring framework**
 
 - 💬 Ask me about **react,java,sql**
